@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.2.
 
+## Functional Requirements
+
+Link to Functional Requirements: https://docs.google.com/document/d/19DvxzCZn2eMGf_ohERmqwyBnEwSARapwcxvOfDJ-bI0/edit?usp=sharing 
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
