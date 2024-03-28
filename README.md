@@ -1,5 +1,7 @@
 # AlunoPresenca
 
+Description: Registro de presença em aulas pelos alunos que frequentam as oficinas do projeto.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.2.
 
 ## Functional Requirements
