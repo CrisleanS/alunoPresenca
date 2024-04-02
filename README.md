@@ -13,3 +13,7 @@ Link to Functional Requirements: https://docs.google.com/document/d/19DvxzCZn2eM
 
 Frontend Angular
 Backend Java Spring Boot
+
+
+## Architecture
+![Arquitetura do projeto](frontend\src\assets\images\Arquitetura.png)
