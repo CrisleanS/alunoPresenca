@@ -1,13 +1,13 @@
-package com.alunoPresenca.alunoPresenca;
+package com.projeto;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AlunoPresencaApplication {
+public class ProjetoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AlunoPresencaApplication.class, args);
+		SpringApplication.run(ProjetoApplication.class, args);
 	}
 
 }
